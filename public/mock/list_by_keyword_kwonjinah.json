@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yuB_kD2vpEkSS0n-SyAel-vkaHA",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 852266,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sCbOA-vDKH9YxzPbXXCFQ1eJopI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5ePKBm4spBg"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-27T10:00:12Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "권진아 (KwonJinAh)의 킬링보이스를 라이브로! - 끝, Lonely Night, Fly Away, 씨스루,여기까지,KNOCK, 위로,운이좋았지,뭔가잘못됐어, 여행가ㅣ딩고뮤직",
+        "description": "'괜찮아...' 하며 위로를 건네는 권진아의 음색   [권진아 선곡 리스트] 00:00 인트로 0:27 끝 (The End) 2:59 Lonely Night 4:14 Fly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ePKBm4spBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ePKBm4spBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ePKBm4spBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-27T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZX_wvSqU3YH8kJliz3SeU7UO6Eo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XP0GWO88T1o"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-14T03:17:59Z",
+        "channelId": "UCXdVNTP1HfYDNQiZhWv9V0w",
+        "title": "𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕. 권진아 노래모음 플레이리스트",
+        "description": "0:00 진심이었던 사람만 바보가 돼 4:25 운이 좋았지 8:42 위로 11:58 이별 뒷면 16:39 뭔가 잘못됐어 20:42 Fly away 24:23 Lonely ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XP0GWO88T1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XP0GWO88T1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XP0GWO88T1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "한놈만 팬다 𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-14T03:17:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ru4Xjg-x5LZr9NKJ2fQKQaksFOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gbBcA3fBnTE"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T05:56:43Z",
+        "channelId": "UCHweiL2jw_hRq_gBJk-jKwg",
+        "title": "💿 권진아 플레이리스트 | Kwon Jin Ah songs playlist",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gbBcA3fBnTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gbBcA3fBnTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gbBcA3fBnTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스너그 ᴘʟᴀʏʟɪꜱᴛ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T05:56:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ABIcbivZrmoHDjJ-RY6XpUDG3Ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rsxou6AOeio"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-03T14:00:17Z",
+        "channelId": "UCwW6D9G9hegNPKYrQ0zivvQ",
+        "title": "[Playlist] 사랑하는 수많은 방식들 : 권진아 플레이리스트 | 1시간 듣기 📚",
+        "description": "권진아 #플레이리스트 #Playlist Playlist Timeline 00:00 오늘 뭐 했는지 말해봐 04:16 그날 밤 08:06 그녀가 말했다 (With 권진아) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rsxou6AOeio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rsxou6AOeio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rsxou6AOeio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "안테나 Antenna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-03T14:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6BG4svVLbr43cW91rhLsAUFabK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5DfmGKTlII4"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-22T09:00:04Z",
+        "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+        "title": "[#놀면뭐하니] 가진 거라곤 이 목소리밖에 없다😭 다 가졌네.. 음색깡패 권진아 노래 모음집❄️ | #유재석 #권진아 #WSG워너비 MBC220430방송",
+        "description": "0:00 하이라이트 0:33 이노래(2AM) 4:31 Just a feeling(S.E.S) 5:51 Break Away(빅마마) - 할미봉조(윤여정) 10:11 보고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5DfmGKTlII4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5DfmGKTlII4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5DfmGKTlII4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-22T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i6liPuCfTq_5hNzzarNjhyLCEGg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ONYZSzWZ_b0"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-25T09:00:09Z",
+        "channelId": "UC8WoHUeN-eLynnLKGkwajYQ",
+        "title": "음색 장인들의 컬래버, 규현(KYUHYUN) X 권진아(Kwon Jin Ah)의♬ &#39;어떻게 이별까지 사랑하겠어, 널 사랑하는 거지&#39;｜비긴어게인 오픈마이크",
+        "description": "음색 장인들의 컬래버, 규현(KYUHYUN) X 권진아(Kwon Jin Ah)의♬ '어떻게 이별까지 사랑하겠어, 널 사랑하는 거지' #BeginAgain ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONYZSzWZ_b0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONYZSzWZ_b0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONYZSzWZ_b0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beginagain 비긴어게인",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-25T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "edOTFABPkGG42di9Kw4cg31g93g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wjiI0rFDq7Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-22T01:00:19Z",
+        "channelId": "UCU3a9Sfk2C8nlROnr8wZApA",
+        "title": "권진아 (JINAH KWON) : Tiny Desk Korea",
+        "description": "타이니데스크코리아 #권진아 #TinyDeskKorea #TDK 한 번 들으면 빠져나올 수 없는 권진아의 한계 없는 음악 속으로 \"Into the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wjiI0rFDq7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wjiI0rFDq7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wjiI0rFDq7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiny Desk Korea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-22T01:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wmCy1eKQjizQwJIE7S8flnHjicQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CLR9dytvnmM"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-27T17:07:54Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "유희열의 스케치북 - 들으면 들을수록 마음을 울리는 권진아 - 운이 좋았지♬.20190927",
+        "description": "들으면 들을수록 마음을 울리는 권진아 - 운이 좋았지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CLR9dytvnmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CLR9dytvnmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CLR9dytvnmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-27T17:07:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cNsu1pwmgsIYCZhTN_cUnwHkuEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b4f9C7KxLZw"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-01T09:31:06Z",
+        "channelId": "UCx6jsZ02B4K3SECUrkgPyzg",
+        "title": "[놀면 뭐하니? 미방분] WSG 워너비 블라인드 오디션 [권진아 - 벌써 일년] (Hangout with Yoo)",
+        "description": "놀면뭐하니 #WSG워너비 #블라인드오디션 More 'Hangout with Yoo' clips are available iMBC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b4f9C7KxLZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b4f9C7KxLZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b4f9C7KxLZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "놀면 뭐하니?",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-01T09:31:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RNG5gDoY49rugwoygG18BaMj6_k",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC5KDvE51c8EqBK8G3Lv-7-g"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-14T06:20:44Z",
+        "channelId": "UC5KDvE51c8EqBK8G3Lv-7-g",
+        "title": "권진아 KwonJinAh",
+        "description": "안냐세여 진아에여 KwonJinAh's Official YouTube Channel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/lu9NYnI08TzMnwI2NehROGYH9uSo-SCT5HholxysQXTOJdNraR8sOgItAKtESKj4TtjX7NAn9ds=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/lu9NYnI08TzMnwI2NehROGYH9uSo-SCT5HholxysQXTOJdNraR8sOgItAKtESKj4TtjX7NAn9ds=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/lu9NYnI08TzMnwI2NehROGYH9uSo-SCT5HholxysQXTOJdNraR8sOgItAKtESKj4TtjX7NAn9ds=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "권진아 KwonJinAh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-14T06:20:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ePWcQywWkSquT2w5ufGyd2VhFFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0crz-UkonGA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T06:28:14Z",
+        "channelId": "UC6jh6fov4G5Pb8Pgy1DJDEA",
+        "title": "𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕. 진심이었기에 더 초라한 이 밤 | 권진아 플레이리스트 | 𝑲𝒘𝒐𝒏 𝑱𝒊𝒏 𝑨𝒉",
+        "description": "00:00 괜찮아도 괜찮아 04:01 lonely night 08:01 잘가 11:49 bury a friend 14:30 2020 Y 18:37 진심이었던 사람만 바보가 돼 22:59 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0crz-UkonGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0crz-UkonGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0crz-UkonGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DJ티비씨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T06:28:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1ei2LmK1w7Pj8GSuuwSWki1H3aE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FnpP4iWMfcw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-22T05:59:32Z",
+        "channelId": "UCw_DJanQBhTe_hCl7eT6BkQ",
+        "title": "[권진아] &quot;운이 좋았지&quot; 핑계고 ver.",
+        "description": "권진아 #핑계고 #안테나 #유재석 노래방 반주에 이삭토스트 배경으로 감동주는 권진아 어떤데... ㅜㅜ 출처 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FnpP4iWMfcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FnpP4iWMfcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FnpP4iWMfcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "권피스타치오",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-22T05:59:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2bHuOI8VCDPfW8i3YVkiXehrm-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2xO4TluMMcM"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-22T09:00:02Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[EN] 230802 mini핑계고 : 유재석, 권진아 @뜬뜬편집실 (OneCam) ㅣ EP.3",
+        "description": "일시 : 2023년 8월 2일 무더운 여름날 오후 장소 : 뜬뜬 편집실 참여자 : 유재석, 권진아 토크 장르 : 두 아티스트의 일상 나눔, 그리고 삶 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2xO4TluMMcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2xO4TluMMcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2xO4TluMMcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-22T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3FbEuT0qiQUtifVdaEWnqtQtg7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-IWoaN2HrTE"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-07T11:00:15Z",
+        "channelId": "UCh21enuxt6axA0nkT6y4J2Q",
+        "title": "정승환 권진아의 노래 바꿔부르기｜HUP!",
+        "description": "2022. Studio Solfa All rights reserved. 00:00 Intro 01:02 정승환 - 운이 좋았지 06:03 권진아 - 너였다면 *이 영상은 TJ노래방의 반주 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-IWoaN2HrTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-IWoaN2HrTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-IWoaN2HrTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HUP!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-07T11:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ro9xpb86sp-SYPTu_rZ-iQw8b4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HqXKIIYWHG0"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-23T02:30:03Z",
+        "channelId": "UCcOYEm78CpaZQvPE6LtoSeA",
+        "title": "[K팝스타3] 권진아, 기타 하나로 모두를 들썩이게 하는 그루브 / &#39;K Pop Star 3&#39; Review",
+        "description": "매력적인 보이스에 감미로운 기타연주까지 갬성 터지네~! 권진아, 기타 하나로 모두를 들썩이게 하는 그루브 SBSNOW channel is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HqXKIIYWHG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HqXKIIYWHG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HqXKIIYWHG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS NOW / SBS 공식 채널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-23T02:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CfXAbaEFzhC_CknLlYQFCxQYtwo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KC5VYQ5hYuI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-14T09:00:13Z",
+        "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+        "title": "댓글과 함께 듣는 권진아의 리얼라이브! | 진심이었던 사람만 바보가 돼,보고싶었어,끝,여기까지,위로, 이별 뒷면,운이 좋았지,Pink!,KNOCK | 노래모음 | RE:@LIVE",
+        "description": "댓글과 함께 듣는 권진아의 리얼라이브! | 진심이었던 사람만 바보가 돼,보고싶었어,끝,여기까지,위로, 이별 뒷면,운이 좋았지,Pink!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KC5VYQ5hYuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KC5VYQ5hYuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KC5VYQ5hYuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK Originals - 원더케이 오리지널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-14T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FevD75XoSSEPnoBTZdeHWR-q0JQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qMkQ3lAD418"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-12T03:48:02Z",
+        "channelId": "UC_3N7wOPxi2yqbLls_4bDOw",
+        "title": "위로 Consolation",
+        "description": "Provided to YouTube by Genie Music 위로 Consolation · 권진아 Kwon Jin Ah 멜로가 체질 Be melodramatic OST Part 1 ℗ Genie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qMkQ3lAD418/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qMkQ3lAD418/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qMkQ3lAD418/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kwon Jin-ah - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-12T03:48:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C7YYggXGPD7_IVARpJlTIB3zQD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X1LAz08MONc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T00:48:41Z",
+        "channelId": "UCvv9psPlZhIGGulF4ePoyCQ",
+        "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 겨울의 또 다른 이름 권진아 띵곡모음⛄❄️",
+        "description": "쩌리뮤직 구독하기 https://www.youtube.com/channel/UCvv9... 플레이리스트 노래 제목은 댓글을 확인하세요! 구독과 좋아요는 큰 힘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X1LAz08MONc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X1LAz08MONc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X1LAz08MONc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쩌리뮤직 ᴊᴜsᴛʟɪsᴛᴇɴᴛᴏᴛʜᴇᴍᴜsɪᴄ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T00:48:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sLTNAVCA2y_MyuE3Uf6PMwWcxNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c5SYeNfYWTo"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-12T14:31:31Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "운이 좋았지 - 권진아 [더 시즌즈-박재범의 드라이브] | KBS 230312 방송",
+        "description": "운이 좋았지 - 권진아 #더시즌즈 #권진아 #운이좋았지 #음악 #뮤직 #박재범 #드라이브 #토크쇼 #박재범의드라이브 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c5SYeNfYWTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c5SYeNfYWTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5SYeNfYWTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-12T14:31:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y2I3Ocin_Zk_hLwpFd6YnS9PrJ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Gv_83wd8I0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-29T11:00:29Z",
+        "channelId": "UC8WoHUeN-eLynnLKGkwajYQ",
+        "title": "한 해의 끝자락에서 듣는 차분하지만 깊은 ✨권진아 노래모음✨ #오픈마이크",
+        "description": "한 해의 끝자락에서 듣는 차분하지만 깊은 ✨권진아 노래모음✨ #비긴어게인 #오픈마이크#권진아 00:00 Attention 02:50 진심이었던 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Gv_83wd8I0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Gv_83wd8I0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Gv_83wd8I0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beginagain 비긴어게인",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-29T11:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v9BPHXsi7tO4FMbwETuJceZZL0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ajMlonxkB4"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-11T08:00:01Z",
+        "channelId": "UCEkcg9WqCX4sGxRQ3uUkekA",
+        "title": "가요계의 매운맛! 권진아의 자작 로고송에 충격 받은 이상순..!! 퀄리티 무슨 일..!? [더듬이TV: 우당탕탕 안테나]",
+        "description": "안테나 아티스트 반전 매력 프로젝트 [더듬이TV : 우당탕탕 안테나] 매주 월, 금 오후 5시 공개   카카오TV : https://tv.kakao.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ajMlonxkB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ajMlonxkB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ajMlonxkB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스발바르 저장고 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-11T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fEV_CLmmKIamgcaOOA4c76wLk7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BFYjjFkrTNQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-04T05:00:07Z",
+        "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+        "title": "[10PM LIVE] 권진아 (Kwon Jin Ah) _ 운이 좋았지",
+        "description": "[10PM LIVE] 권진아 (Kwon Jin Ah) _ 운이 좋았지 #KwonJinAh#10PM_LIVE#I_got_lucky#LIVE#New1theKOriginal#1theK#원더 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BFYjjFkrTNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BFYjjFkrTNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFYjjFkrTNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK Originals - 원더케이 오리지널",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-04T05:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TsSI6ZhVnhIh2z920Q6Q256VT5c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X5e5YyXLX18"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-17T09:00:09Z",
+        "channelId": "UC8WoHUeN-eLynnLKGkwajYQ",
+        "title": "감성 장인 권진아(KWON JIN-AH)의 신곡♬ &#39;진심이었던 사람만 바보가 돼&#39;｜비긴어게인 오픈마이크",
+        "description": "감성 장인 권진아(KWON JIN-AH)의 신곡♬ '진심이었던 사람만 바보가 돼' #BeginAgain #OpenMic #오픈마이크 #진심이었던사람만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X5e5YyXLX18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X5e5YyXLX18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X5e5YyXLX18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beginagain 비긴어게인",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-17T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eIk4t6XMmdLoSxryuiUFgucg9xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tZjehK2Zwy8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-12T14:41:17Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "109개 넘는 커버곡 중 가장 기억에 남았다··· 권진아의 뉴진스 &#39;Ditto&#39; 커버! [더 시즌즈-박재범의 드라이브] | KBS 230312 방송",
+        "description": "109개 넘는 커버곡 중 가장 기억에 남았다··· 권진아의 뉴진스 'Ditto' 커버! #더시즌즈 #권진아 #ditto #디토 #뉴진스 #커버 #음악 #뮤직 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tZjehK2Zwy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tZjehK2Zwy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZjehK2Zwy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-12T14:41:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ztbvOQ7nId22NRpYW49YZKWTUmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1_nOlK3Zvpo"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-17T09:00:13Z",
+        "channelId": "UC8WoHUeN-eLynnLKGkwajYQ",
+        "title": "모두의 힐링을 바라는 권진아(Kwon Jin Ah)의 &#39;괜찮아도 괜찮아&#39;♬ | 비긴어게인 오픈마이크",
+        "description": "모두의 힐링을 바라는 권진아(Kwon Jin Ah)의 '괜찮아도 괜찮아' #오픈마이크 #권진아 #괜찮아도괜찮아 원곡 : 디오(D.O) 비긴어게인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1_nOlK3Zvpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1_nOlK3Zvpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1_nOlK3Zvpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beginagain 비긴어게인",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-17T09:00:13Z"
+      }
+    }
+  ]
+}

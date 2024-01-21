@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OUCAbtYXM0yCRwoWS49MnUViurA",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 5141,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EHOxEtoUdM2L6JQwx416zCVXRyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "103FjS8J5KA"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T17:13:53Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "LIVE: NBC News NOW",
+        "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/103FjS8J5KA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/103FjS8J5KA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/103FjS8J5KA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-19T17:13:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dUQs9tK-RO7TifVGz57dMthrpWc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UuuRh2ssvxE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T14:59:17Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Donald Trump News LIVE | Donald Trump&#39;s Rally In Manchester LIVE | Trump Speech LIVE | N18L",
+        "description": "Donald Trump News LIVE | Donald Trump's Rally In Manchester LIVE | Trump Speech LIVE | N18L DISCLAIMER: This video may ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UuuRh2ssvxE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UuuRh2ssvxE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UuuRh2ssvxE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T14:59:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pRhtWq8ny3lAE43C-_PIbC-j_og",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pXdBJ9NJFeE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-21T01:25:08Z",
+        "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+        "title": "सुबह की हर खबर LIVE: Today Morning News | Top 100 | Breaking | Fatafat | Headlines | Modi | Ayodhya",
+        "description": "सुबह की हर खबर LIVE: Today Morning News | Top 100 | Breaking | Fatafat | Headlines | Modi | Ayodhya #breakingnews ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pXdBJ9NJFeE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pXdBJ9NJFeE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pXdBJ9NJFeE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zee News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-21T01:25:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tlGzayTU-RbFRljb0HjT8lWue0c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t4_5HFqWqyg"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-21T00:24:44Z",
+        "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+        "title": "Big News LIVE: देखिए बड़ी खबरें फटाफट | Headlines | Breaking | Top 100 | Top 50 News | PM Modi LIVE",
+        "description": "Big News LIVE: देखिए बड़ी खबरें फटाफट | Headlines | Breaking | Top 100 | Top 50 News | PM Modi LIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4_5HFqWqyg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4_5HFqWqyg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4_5HFqWqyg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zee News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-21T00:24:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8aE3-i2KVwmp5BJCDrz0NQ6spQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gN0PZCe-kwQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-28T04:37:10Z",
+        "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+        "title": "LIVE: Latest News Headlines and Events l ABC News Live",
+        "description": "ABC News Live is ABC News' award-winning 24/7 streaming news channel with live coverage as news breaks, up-to- the-minute ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gN0PZCe-kwQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gN0PZCe-kwQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gN0PZCe-kwQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-28T04:37:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6AnRlQdFE1rriY4mYTOm6At5R-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GZN_dFA0Cn0"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T15:50:23Z",
+        "channelId": "UCEW9foRmk4UdbzacT8KCYkA",
+        "title": "Latest News Updates: आज की बड़ी खबरें | Today Latest Breaking News | Top Headlines- 21 जनवरी 2024",
+        "description": "Subscribe our channel for the latest news: https://tinyurl.com/newsganga Latest News Updates: आज की बड़ी खबरें ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZN_dFA0Cn0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZN_dFA0Cn0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZN_dFA0Cn0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News Ganga",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T15:50:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AQYGf9iJFwoUjAeR8naCzV8-URo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ePVKhbnwXgU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T17:50:25Z",
+        "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
+        "title": "🔴LIVE:Polimer News | Tamil News | PMModi | CMMKStalin | Srirangam | Ayodhya | DMK | BJP | Jallikattu",
+        "description": "LIVE:Polimer News | Tamil News | PMModi | CMMKStalin | Srirangam | Ayodhya | DMK | BJP | Jallikattu #Pongal | #Pongal2024 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ePVKhbnwXgU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ePVKhbnwXgU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ePVKhbnwXgU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Polimer News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-19T17:50:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X42HgOvK6Jw89qegVnpBeD3cAPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ywxK3HC4iA"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-25T01:02:25Z",
+        "channelId": "UCYlh4lH762HvHt6mmiecyWQ",
+        "title": "🔴LIVE : Sun News Live | Sun Tv News | Tamil News | Latest News | MK Stalin | Modi In TN | Jan News",
+        "description": "Subscribe to Sun News Channel to stay updated - http://bit.ly/2Yyvgsi Hit Bell Icon to get alerted when videos are released ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ywxK3HC4iA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ywxK3HC4iA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ywxK3HC4iA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sun News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-07-25T01:02:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R6W2BftzTA_tq83gzXtyEAp7ZhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w9uJg68CV4g"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-14T14:59:07Z",
+        "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+        "title": "Watch Sky News Live",
+        "description": "Watch Sky News: Police have seen an \"unprecedented\" rise in the threat from terrorism following the conflict in Gaza, which has ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9uJg68CV4g/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9uJg68CV4g/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9uJg68CV4g/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-14T14:59:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "erNav6KWoJirsYA7XUY9tJNCKoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZHHjo7O9RtA"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T05:05:54Z",
+        "channelId": "UCMk9Tdc-d1BIcAFaSppiVkw",
+        "title": "एक्शन में Iran, अब क्या करेगा Pakistan ? | Iran Vs Pakistan Attack News Live Updates | Hindi News",
+        "description": "Iran Pakistan Attack: ईरान पर पाकिस्तानी हमले के जवाब में पाकिस्तान ने भी ईरान ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHHjo7O9RtA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHHjo7O9RtA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHHjo7O9RtA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TIMES NOW Navbharat",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T05:05:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZKIbExMz00w9JF0SJZH1uovPZPM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rdKArFp-KzI"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-21T02:18:42Z",
+        "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+        "title": "Ayodhya Ram Mandir Security High Alert News LIVE Updates : प्राण प्रतिष्ठा से पहले अलर्ट पर UP ATS",
+        "description": "अयोध्या में राम मंदिर की 22 जनवरी को प्रतिष्ठा समारोह के दौरान परिसर ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rdKArFp-KzI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rdKArFp-KzI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rdKArFp-KzI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zee News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-21T02:18:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Yygau-BymapHHQswGlPAObvOEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5V9UyxwxeV4"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T02:31:29Z",
+        "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+        "title": "Ram Mandir Pran Pratishtha Security LIVE Updates: 22nd January से पहले Ayodhya बनी छावनी | Breaking",
+        "description": "22 जनवरी को प्राण प्रतिष्ठा कार्यक्रम से पहले पूरी अयोध्या नगरी को ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5V9UyxwxeV4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5V9UyxwxeV4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5V9UyxwxeV4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zee News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T02:31:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rQoPbtHGxpJUCUcm7XxqAfrpCV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CaiAlIIEgs0"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-06T10:18:29Z",
+        "channelId": "UCQC1wGbOOIoC23fRGxt4kbg",
+        "title": "LIVE TV: Good News Today LIVE | Good Luck Today | Aaj Ka Rashifal | Today Horoscope | GNTTV.COM",
+        "description": "अयोध्या में रामलला की प्राण प्रतिष्ठा में बस एक दिन बाकी....अनुष्ठान ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CaiAlIIEgs0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CaiAlIIEgs0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CaiAlIIEgs0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Good News Today",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-05-06T10:18:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IJOwAepM-mxlBPtgLpONiFa2SCU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9PXr1jGbt1Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T01:56:34Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Ram Lalla Idol Unveiled LIVE| Pran Pratishtha Ceremony At Ayodhya Ram Mandir | Ram Mandir News LIVE",
+        "description": "The Ram Lalla idol was installed inside the sanctum sanctorum as part of the rituals in the run-up to the consecration ceremony of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9PXr1jGbt1Q/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9PXr1jGbt1Q/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9PXr1jGbt1Q/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "India Today",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T01:56:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BwaQKnY5bffcVNpDIod5VzDUlfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QKHDueT2oBs"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T12:17:33Z",
+        "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+        "title": "LIVE: Israeli airstrike kills 5 Iranian military advisers, 16,000 killed in war | LiveNOW from FOX",
+        "description": "An Israeli airstrike on the Syrian capital killed at least 4 Iranian advisers. State media says Israeli forces targeted a building used ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QKHDueT2oBs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QKHDueT2oBs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QKHDueT2oBs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LiveNOW from FOX",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T12:17:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R4_OsUqzCyLj_C_mnq4Cl_qJnMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S08MqEj26iU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T07:20:15Z",
+        "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
+        "title": "Ayodhya Parv Live: Sri Ram पर सबसे बड़ा संवाद | Ram Mandir Pran Pratistha | Akhilesh yadav | N18L",
+        "description": "Ayodhya Parv Live: Sri Ram पर सबसे बड़ा संवाद | Ram Mandir Pran Pratistha | Akhilesh yadav | N18L #ayodhya ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S08MqEj26iU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S08MqEj26iU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S08MqEj26iU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News18 India",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T07:20:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Po9f1sS3HSEGIc0D4kV9GnSOz9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6EdywNFYhu8"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-17T00:18:39Z",
+        "channelId": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
+        "title": "ABC13 Houston | Live Local News and Weather",
+        "description": "Watch ABC13 Houston for live breaking news and weather updates 24/7. Click the subscribe button to be notified about live ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6EdywNFYhu8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6EdywNFYhu8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6EdywNFYhu8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC13 Houston",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-17T00:18:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z3lJ41319mjpInt_UIbhHmTKfKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rekNqYolSyw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-19T00:36:43Z",
+        "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+        "title": "Zee News Digital LIVE TV: Ayodhya Ram Mandir Pran Pratishtha | Breaking | Top 100 | Top 50| Big News",
+        "description": "breakingnews #headlines #livenews #bignews #trending About Channel: ज़ी न्यूज़ देश का सबसे ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rekNqYolSyw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rekNqYolSyw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rekNqYolSyw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zee News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-19T00:36:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fw9RiszhiW3Hxg0oPqKPsKqPdOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RQrLqUxw0U0"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-02T05:17:16Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "NDTV 24x7 Live TV: Ayodhya Ram Temple News | Myanmar Soldiers | Iran-Pakistan | Mandanna Deepfake",
+        "description": "About NDTV (English news channel): NDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQrLqUxw0U0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQrLqUxw0U0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQrLqUxw0U0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-02T05:17:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mDfeuumxshScFB-RpCuCvx7pbfI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gBIcUNioXQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-21T01:28:27Z",
+        "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+        "title": "【LIVE】昼のニュース(Japan News Digest Live)最新情報など｜TBS NEWS DIG（1月21日）",
+        "description": "TBS/JNNニュースから、最新情報をダイジェストでお届けします。 #ニュース #news #live #tbs #japan #newsdig #livenews ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gBIcUNioXQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gBIcUNioXQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gBIcUNioXQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TBS NEWS DIG Powered by JNN",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-21T01:28:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "shFWgX0Ar6__tZCV_UJ_29STVWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ko18SgceYX8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T07:46:27Z",
+        "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
+        "title": "Asianet News Live | Malayalam News Live | Election 2024 | #Asianetnews",
+        "description": "Asianet News Live | ഏഷ്യാനെറ്റ് ന്യൂസ് ലൈവ് |Election 2024 | Malayalam News Live | Latest News Updates ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ko18SgceYX8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ko18SgceYX8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ko18SgceYX8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "asianetnews",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-05-10T07:46:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "29SI-33ORwepgTq2dGayOrxfbys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IbWK8xuVQgs"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-21T11:45:46Z",
+        "channelId": "UC7FlLbNo66YsCEAPuJITiNg",
+        "title": "Rajasthan Live News । CM Bhajanlal Sharma। Diya Kuamri । Premchand Bairwa। Rajasthan News। BJP",
+        "description": "Rajasthan Live News । CM Bhajanlal Sharma। Diya Kuamri । Premchand Bairwa। Rajasthan News। BJP #bhajanlalsharma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IbWK8xuVQgs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IbWK8xuVQgs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IbWK8xuVQgs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News18 Rajasthan",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-08-21T11:45:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WAIuvK2dosOWXgwd-7W4V4dHutY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qJFkPnAE3gQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T10:03:53Z",
+        "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+        "title": "Houthi Vs America News Live: हूती और अमेरिका के बीच शुरू हो चुका है युद्ध? | World War3 | Biden",
+        "description": "Houthi Vs America News Live: हूती और अमेरिका के बीच शुरू हो चुका है युद्ध? | World War3 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJFkPnAE3gQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJFkPnAE3gQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJFkPnAE3gQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV9 Bharatvarsh",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T10:03:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p5d-stvVpjaH43C_h3UzWEK70O0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZoKv_Ip5-YI"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-01T01:03:20Z",
+        "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+        "title": "Aaj Tak LIVE TV: Ayodhya Ram Mandir LIVE Updates | PM Modi | Bharat Jodo Nyay Yatra | Rahul Gandhi",
+        "description": "अयोध्या (Ayodhya) में राम लला की प्राण प्रतिष्ठा अब बस एक दिन दूर है. राम ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZoKv_Ip5-YI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZoKv_Ip5-YI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZoKv_Ip5-YI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aaj Tak",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-01T01:03:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2i-lStCSdm0tmg0QzUnq0wyUb6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iz_T69og4Ug"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-20T10:31:30Z",
+        "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
+        "title": "【朝ニュースライブ】最新ニュースと生活情報(1月21日)――THE LATEST NEWS SUMMARY(日テレNEWS LIVE)",
+        "description": "最新のニュース動画・ライブはYouTube日テレNEWSチャンネルで配信中◇ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iz_T69og4Ug/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iz_T69og4Ug/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iz_T69og4Ug/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "日テレNEWS",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-20T10:31:30Z"
+      }
+    }
+  ]
+}
