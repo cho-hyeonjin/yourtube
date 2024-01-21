@@ -14,7 +14,7 @@ export default function SearchHeader() {
   useEffect(() => setText(keyword || ""), [keyword]); // 경로가 이동될 때마다 parameter로 들어온 text value를 검색창 state에도 반영
   return (
     <>
-      <header>
+      <header className="flex">
         <Link to="/">
           <BsYoutube />
           <h1>YourTube</h1>
