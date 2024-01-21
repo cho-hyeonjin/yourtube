@@ -3,6 +3,7 @@ import SearchHeader from "./components/SearchHeader";
 import { QueryClient, QueryClientProvider } from "react-query";
 
 const queryClient = new QueryClient();
+
 function App() {
   return (
     <>
