@@ -4,7 +4,7 @@ export default function Videos() {
 
   return (
     <>
-      <div>Videos: {keyword}</div>
+      <div>Videos: {keyword ? `🔍${keyword}` : "인급동🔥"}</div>
     </>
   );
 }
