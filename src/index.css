@@ -3,9 +3,18 @@
 @tailwind utilities;
 
 body {
-  margin: 0;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  /* 일반 css에서도 taillwind 문법을 사용하고 싶다면? @apply */
+  @apply flex flex-col items-center;
+  @apply bg-zinc-900 text-gray-50;
+}
+
+#root {
+  @apply w-full max-w-screen-2xl;
 }
