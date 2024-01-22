@@ -2,7 +2,8 @@ import { useQuery } from "react-query";
 import { useParams } from "react-router-dom";
 import VideoCard from "./VideoCard";
 // import { search } from "../api/yourtube";
-import FakeYourtube from "../api/fakeYourtube";
+// import FakeYourtube from "../api/fakeYourtube";
+import Yourtube from "../api/yourtube";
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -11,7 +12,8 @@ export default function Videos() {
     error,
     data: videos,
   } = useQuery(["videos", keyword], () => {
-    const yourtube = new FakeYourtube();
+    // const yourtube = new FakeYourtube();
+    const yourtube = new Yourtube();
     return yourtube.search(keyword);
   });
   return (
@@ -22,10 +24,7 @@ export default function Videos() {
       {videos && (
         <ul>
           {videos.map((video) => (
-            <VideoCard
-              key={video.id.videoId ? video.id.videoId : video.id}
-              video={video}
-            />
+            <VideoCard key={video.id} video={video} />
           ))}
         </ul>
       )}
