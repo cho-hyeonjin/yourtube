@@ -1,7 +1,7 @@
 import { useQuery } from "react-query";
 import { useParams } from "react-router-dom";
 import VideoCard from "./VideoCard";
-import axios from "axios";
+import { search } from "../api/youtube";
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -9,11 +9,7 @@ export default function Videos() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["videos", keyword], async () => {
-    return axios
-      .get(`/videos/${keyword ? "kwonjinah" : "hot"}.json`)
-      .then((res) => res.data.items);
-  });
+  } = useQuery(["videos", keyword], () => search());
   return (
     <>
       <div>Videos {keyword ? `🔍${keyword}` : "🔥"}</div>
