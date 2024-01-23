@@ -10,9 +10,7 @@ export default function Videos() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["videos", keyword], () => {
-    yourtube.search(keyword);
-  });
+  } = useQuery(["videos", keyword], () => yourtube.search(keyword));
   return (
     <>
       <div>Videos {keyword ? `🔍${keyword}` : "🔥"}</div>
