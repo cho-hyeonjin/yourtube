@@ -1,20 +1,17 @@
 import { useQuery } from "react-query";
 import { useParams } from "react-router-dom";
 import VideoCard from "./VideoCard";
-// import { search } from "../api/yourtube";
-// import FakeYourtube from "../api/fakeYourtube";
-import Yourtube from "../api/yourtube";
+import { useYourtubeApi } from "../context/YourtubeApiContext";
 
 export default function Videos() {
   const { keyword } = useParams();
+  const { yourtube } = useYourtubeApi();
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery(["videos", keyword], () => {
-    // const yourtube = new FakeYourtube();
-    const yourtube = new Yourtube();
-    return yourtube.search(keyword);
+    yourtube.search(keyword);
   });
   return (
     <>
