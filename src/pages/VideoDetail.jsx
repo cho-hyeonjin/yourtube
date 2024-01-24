@@ -1,5 +1,6 @@
 import { useLocation } from "react-router-dom";
 import ChannelInfo from "../components/ChannelInfo";
+import ChannelPlaylist from "../components/ChannelPlaylist";
 
 export default function VideoDetail() {
   const {
@@ -26,11 +27,7 @@ export default function VideoDetail() {
           </div>
         </article>
         <section className="basis-2/6">
-          <h1>관련</h1>
-          <h1>비디오</h1>
-          <h1>리스트</h1>
-          <h1>들어올</h1>
-          <h1>예정</h1>
+          <ChannelPlaylist channelId={channelId} />
         </section>
       </section>
     </>
