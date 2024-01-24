@@ -1,6 +1,6 @@
 import { useQuery } from "react-query";
 import { useParams } from "react-router-dom";
-import VideoCard from "./VideoCard";
+import VideoCard from "../components/VideoCard";
 import { useYourtubeApi } from "../context/YourtubeApiContext";
 
 export default function Videos() {
