@@ -18,7 +18,7 @@ export default function ChannelPlaylist({ channelId }) {
       {videos && (
         <ul>
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
+            <VideoCard key={video.id} video={video} type="list" />
           ))}
         </ul>
       )}
