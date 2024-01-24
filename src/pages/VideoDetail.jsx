@@ -1,10 +1,11 @@
 import { useLocation } from "react-router-dom";
+import ChannelInfo from "../components/ChannelInfo";
 
 export default function VideoDetail() {
   const {
     state: { video },
   } = useLocation();
-  const { title } = video.snippet;
+  const { title, channelId, channelTitle, description } = video.snippet;
 
   return (
     <>
@@ -19,6 +20,8 @@ export default function VideoDetail() {
         />
         <div>
           <h2>{title}</h2>
+          <ChannelInfo id={channelId} name={channelTitle} />
+          <pre>{description}</pre>
         </div>
       </section>
     </>
