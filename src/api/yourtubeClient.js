@@ -12,6 +12,10 @@ export default class YourtubeClient {
     return this.httpClient.get("search", params);
   }
 
+  async videos(params) {
+    return this.httpClient.get("videos", params);
+  }
+
   // 채널 상세정보 중 썸네일URL
   async channelThumbnails(params) {
     return this.httpClient.get("channels", params);

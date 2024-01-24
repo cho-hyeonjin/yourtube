@@ -18,6 +18,7 @@ export default function VideoDetail() {
             width="100%"
             height="720"
             src={`http://www.youtube.com/embed/${video.id}`}
+            title={title}
             className="rounded-2xl"
           />
           <div className="p-8">
